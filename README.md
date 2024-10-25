@@ -1,5 +1,5 @@
 # rditya.github.io
-Raditya Rizki Raharja NPM(714240041)
+Raditya Rizki Raharja NPM (714240041)
 
 Tugas Portofolio GitHub.io
 1. Website ini terdiri dari index.html, style.css
