@@ -19,3 +19,9 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.socialIcons {
+  border-radius: 50%;
+  background-color: white;
+  padding: 50px;
+}
